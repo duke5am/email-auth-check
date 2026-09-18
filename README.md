@@ -81,4 +81,4 @@ console and cannot be invented), the safe migration path from `p=none` to
 `p=reject`, the common-breakages catalogue, the plain-language glossary, and 184
 tests on 49 recorded real-DNS fixtures.
 
-→ **Email Auth DNS Audit & Fix Templates**: <!-- GUMROAD-LINK -->
+→ More developer tooling like this: **[duke5am.gumroad.com](https://duke5am.gumroad.com)** <!-- GUMROAD-LINK -->
